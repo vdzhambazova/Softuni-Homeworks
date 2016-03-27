@@ -3,13 +3,13 @@ import java.util.Scanner;
 public class CalculateExpression {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        double a = scanner.nextDouble();
+        double aa = scanner.nextDouble();
         double b = scanner.nextDouble();
         double c = scanner.nextDouble();
 
-        double result1 = calcFirstExpression(a, b, c);
-        double result2 = calcSecondExpression(a, b, c);
-        double average = (a + b + c) / 3;
+        double result1 = calcFirstExpression(aa, b, c);
+        double result2 = calcSecondExpression(aa, b, c);
+        double average = (aa + b + c) / 3;
 
         double diff = calcDifference(result1, result2, average);
 
