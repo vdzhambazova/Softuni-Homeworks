@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P03SeriesOfLetters\bin\Debug\P03SeriesOfLetters.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P03SeriesOfLetters\bin\Debug\P03SeriesOfLetters.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P03SeriesOfLetters\bin\Debug\P03SeriesOfLetters.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P03SeriesOfLetters\obj\Debug\P03SeriesOfLetters.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P03SeriesOfLetters\obj\Debug\P03SeriesOfLetters.pdb

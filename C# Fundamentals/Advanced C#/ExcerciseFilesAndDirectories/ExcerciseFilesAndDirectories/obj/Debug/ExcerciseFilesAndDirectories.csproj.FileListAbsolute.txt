@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseFilesAndDirectories\ExcerciseFilesAndDirectories\bin\Debug\ExcerciseFilesAndDirectories.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseFilesAndDirectories\ExcerciseFilesAndDirectories\bin\Debug\ExcerciseFilesAndDirectories.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseFilesAndDirectories\ExcerciseFilesAndDirectories\bin\Debug\ExcerciseFilesAndDirectories.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseFilesAndDirectories\ExcerciseFilesAndDirectories\obj\Debug\ExcerciseFilesAndDirectories.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseFilesAndDirectories\ExcerciseFilesAndDirectories\obj\Debug\ExcerciseFilesAndDirectories.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseFilesAndDirectories\ExcerciseFilesAndDirectories\bin\Debug\numbers.txt

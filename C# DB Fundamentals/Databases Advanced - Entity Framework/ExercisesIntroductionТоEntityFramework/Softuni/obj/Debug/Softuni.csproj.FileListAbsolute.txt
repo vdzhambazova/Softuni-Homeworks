@@ -1,0 +1,10 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\Softuni\bin\Debug\Softuni.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\Softuni\bin\Debug\Softuni.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\Softuni\bin\Debug\Softuni.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\Softuni\bin\Debug\EntityFramework.dll
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\Softuni\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\Softuni\bin\Debug\EntityFramework.xml
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\Softuni\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\Softuni\obj\Debug\Softuni.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\Softuni\obj\Debug\Softuni.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\Softuni\obj\Debug\Softuni.pdb

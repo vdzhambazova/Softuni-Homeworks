@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P02UniqueStudentNames\bin\Debug\P02UniqueStudentNames.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P02UniqueStudentNames\bin\Debug\P02UniqueStudentNames.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P02UniqueStudentNames\bin\Debug\P02UniqueStudentNames.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P02UniqueStudentNames\obj\Debug\P02UniqueStudentNames.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P02UniqueStudentNames\obj\Debug\P02UniqueStudentNames.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P02UniqueStudentNames\obj\Debug\P02UniqueStudentNames.csprojResolveAssemblyReference.cache

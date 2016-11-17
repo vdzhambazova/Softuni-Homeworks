@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P01DefineInterfaceIPerson\bin\Debug\P01DefineInterfaceIPerson.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P01DefineInterfaceIPerson\bin\Debug\P01DefineInterfaceIPerson.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P01DefineInterfaceIPerson\bin\Debug\P01DefineInterfaceIPerson.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P01DefineInterfaceIPerson\obj\Debug\P01DefineInterfaceIPerson.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P01DefineInterfaceIPerson\obj\Debug\P01DefineInterfaceIPerson.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P01DefineInterfaceIPerson\obj\Debug\P01DefineInterfaceIPerson.pdb

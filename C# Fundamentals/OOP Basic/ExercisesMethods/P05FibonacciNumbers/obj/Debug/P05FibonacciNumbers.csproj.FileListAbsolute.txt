@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P05FibonacciNumbers\bin\Debug\P05FibonacciNumbers.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P05FibonacciNumbers\obj\Debug\P05FibonacciNumbers.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P05FibonacciNumbers\bin\Debug\P05FibonacciNumbers.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P05FibonacciNumbers\bin\Debug\P05FibonacciNumbers.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P05FibonacciNumbers\obj\Debug\P05FibonacciNumbers.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P05FibonacciNumbers\obj\Debug\P05FibonacciNumbers.pdb

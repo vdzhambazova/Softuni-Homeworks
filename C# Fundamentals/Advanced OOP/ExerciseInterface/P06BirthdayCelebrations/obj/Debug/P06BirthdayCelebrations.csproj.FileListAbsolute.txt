@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P06BirthdayCelebrations\bin\Debug\P06BirthdayCelebrations.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P06BirthdayCelebrations\bin\Debug\P06BirthdayCelebrations.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P06BirthdayCelebrations\bin\Debug\P06BirthdayCelebrations.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P06BirthdayCelebrations\obj\Debug\P06BirthdayCelebrations.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P06BirthdayCelebrations\obj\Debug\P06BirthdayCelebrations.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P06BirthdayCelebrations\obj\Debug\P06BirthdayCelebrations.pdb

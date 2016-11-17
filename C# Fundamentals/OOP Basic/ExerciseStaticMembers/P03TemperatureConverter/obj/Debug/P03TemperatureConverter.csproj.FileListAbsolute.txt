@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P03TemperatureConverter\bin\Debug\P03TemperatureConverter.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P03TemperatureConverter\obj\Debug\P03TemperatureConverter.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P03TemperatureConverter\bin\Debug\P03TemperatureConverter.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P03TemperatureConverter\bin\Debug\P03TemperatureConverter.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P03TemperatureConverter\obj\Debug\P03TemperatureConverter.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P03TemperatureConverter\obj\Debug\P03TemperatureConverter.pdb

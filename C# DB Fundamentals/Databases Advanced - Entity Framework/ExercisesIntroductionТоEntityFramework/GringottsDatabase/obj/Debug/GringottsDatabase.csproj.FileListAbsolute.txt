@@ -1,0 +1,10 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\GringottsDatabase\bin\Debug\GringottsDatabase.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\GringottsDatabase\bin\Debug\GringottsDatabase.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\GringottsDatabase\bin\Debug\GringottsDatabase.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\GringottsDatabase\bin\Debug\EntityFramework.dll
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\GringottsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\GringottsDatabase\bin\Debug\EntityFramework.xml
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\GringottsDatabase\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\GringottsDatabase\obj\Debug\GringottsDatabase.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\GringottsDatabase\obj\Debug\GringottsDatabase.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIntroductionТоEntityFramework\GringottsDatabase\obj\Debug\GringottsDatabase.pdb

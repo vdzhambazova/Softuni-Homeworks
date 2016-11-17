@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P03Ferrari\bin\Debug\P03Ferrari.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P03Ferrari\bin\Debug\P03Ferrari.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P03Ferrari\bin\Debug\P03Ferrari.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P03Ferrari\obj\Debug\P03Ferrari.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P03Ferrari\obj\Debug\P03Ferrari.pdb

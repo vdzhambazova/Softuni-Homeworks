@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P14DragonArmy\bin\Debug\P14DragonArmy.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P14DragonArmy\bin\Debug\P14DragonArmy.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P14DragonArmy\bin\Debug\P14DragonArmy.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P14DragonArmy\obj\Debug\P14DragonArmy.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P14DragonArmy\obj\Debug\P14DragonArmy.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P14DragonArmy\obj\Debug\P14DragonArmy.csprojResolveAssemblyReference.cache

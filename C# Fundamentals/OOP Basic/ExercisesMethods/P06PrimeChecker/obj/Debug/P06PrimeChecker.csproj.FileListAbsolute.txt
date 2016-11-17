@@ -1,0 +1,1 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesMethods\P06PrimeChecker\bin\Debug\P06PrimeChecker.exe.config

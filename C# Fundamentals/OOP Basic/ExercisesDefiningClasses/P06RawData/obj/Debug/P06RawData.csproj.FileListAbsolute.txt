@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P06RawData\bin\Debug\P06RawData.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P06RawData\bin\Debug\P06RawData.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P06RawData\bin\Debug\P06RawData.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P06RawData\obj\Debug\P06RawData.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P06RawData\obj\Debug\P06RawData.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P06RawData\obj\Debug\P06RawData.pdb

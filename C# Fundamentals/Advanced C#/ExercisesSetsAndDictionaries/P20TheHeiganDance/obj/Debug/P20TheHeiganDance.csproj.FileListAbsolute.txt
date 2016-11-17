@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P20TheHeiganDance\bin\Debug\P20TheHeiganDance.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P20TheHeiganDance\bin\Debug\P20TheHeiganDance.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P20TheHeiganDance\bin\Debug\P20TheHeiganDance.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P20TheHeiganDance\obj\Debug\P20TheHeiganDance.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P20TheHeiganDance\obj\Debug\P20TheHeiganDance.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P20TheHeiganDance\obj\Debug\P20TheHeiganDance.pdb

@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\P03CustomMinFunction\bin\Debug\P03CustomMinFunction.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\P03CustomMinFunction\bin\Debug\P03CustomMinFunction.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\P03CustomMinFunction\bin\Debug\P03CustomMinFunction.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\P03CustomMinFunction\obj\Debug\P03CustomMinFunction.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\P03CustomMinFunction\obj\Debug\P03CustomMinFunction.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\P03CustomMinFunction\obj\Debug\P03CustomMinFunction.pdb

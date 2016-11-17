@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P08PokemonTrainer\bin\Debug\P08PokemonTrainer.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P08PokemonTrainer\bin\Debug\P08PokemonTrainer.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P08PokemonTrainer\bin\Debug\P08PokemonTrainer.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P08PokemonTrainer\obj\Debug\P08PokemonTrainer.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P08PokemonTrainer\obj\Debug\P08PokemonTrainer.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P08PokemonTrainer\obj\Debug\P08PokemonTrainer.pdb

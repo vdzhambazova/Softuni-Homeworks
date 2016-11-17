@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesInheritance\ExercisesInheritance\bin\Debug\ExercisesInheritance.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesInheritance\ExercisesInheritance\bin\Debug\ExercisesInheritance.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesInheritance\ExercisesInheritance\bin\Debug\ExercisesInheritance.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesInheritance\ExercisesInheritance\obj\Debug\P01Person.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesInheritance\ExercisesInheritance\obj\Debug\ExercisesInheritance.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesInheritance\ExercisesInheritance\obj\Debug\ExercisesInheritance.pdb

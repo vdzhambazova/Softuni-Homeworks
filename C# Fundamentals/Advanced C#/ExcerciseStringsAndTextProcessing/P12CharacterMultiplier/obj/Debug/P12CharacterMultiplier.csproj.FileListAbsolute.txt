@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExcerciseStringsAndTextProcessing\P12CharacterMultiplier\bin\Debug\P12CharacterMultiplier.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExcerciseStringsAndTextProcessing\P12CharacterMultiplier\bin\Debug\P12CharacterMultiplier.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExcerciseStringsAndTextProcessing\P12CharacterMultiplier\bin\Debug\P12CharacterMultiplier.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExcerciseStringsAndTextProcessing\P12CharacterMultiplier\obj\Debug\P12CharacterMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExcerciseStringsAndTextProcessing\P12CharacterMultiplier\obj\Debug\P12CharacterMultiplier.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExcerciseStringsAndTextProcessing\P12CharacterMultiplier\obj\Debug\P12CharacterMultiplier.pdb

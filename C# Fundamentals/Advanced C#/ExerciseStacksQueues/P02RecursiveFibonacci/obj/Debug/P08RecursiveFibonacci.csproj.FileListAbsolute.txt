@@ -1,0 +1,5 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P02RecursiveFibonacci\bin\Debug\P02RecursiveFibonacci.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P02RecursiveFibonacci\bin\Debug\P02RecursiveFibonacci.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P02RecursiveFibonacci\bin\Debug\P02RecursiveFibonacci.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P02RecursiveFibonacci\obj\Debug\P02RecursiveFibonacci.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P02RecursiveFibonacci\obj\Debug\P02RecursiveFibonacci.pdb

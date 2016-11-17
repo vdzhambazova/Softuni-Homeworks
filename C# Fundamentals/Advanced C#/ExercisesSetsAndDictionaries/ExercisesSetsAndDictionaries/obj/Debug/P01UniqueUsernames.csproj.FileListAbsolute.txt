@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\ExercisesSetsAndDictionaries\bin\Debug\ExercisesSetsAndDictionaries.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\ExercisesSetsAndDictionaries\bin\Debug\ExercisesSetsAndDictionaries.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\ExercisesSetsAndDictionaries\bin\Debug\ExercisesSetsAndDictionaries.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\ExercisesSetsAndDictionaries\obj\Debug\ExercisesSetsAndDictionaries.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\ExercisesSetsAndDictionaries\obj\Debug\ExercisesSetsAndDictionaries.pdb

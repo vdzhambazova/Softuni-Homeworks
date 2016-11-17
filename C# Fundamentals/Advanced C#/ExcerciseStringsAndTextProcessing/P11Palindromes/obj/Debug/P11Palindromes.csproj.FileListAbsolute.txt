@@ -1,0 +1,5 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExcerciseStringsAndTextProcessing\P11Palindromes\bin\Debug\P11Palindromes.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExcerciseStringsAndTextProcessing\P11Palindromes\bin\Debug\P11Palindromes.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExcerciseStringsAndTextProcessing\P11Palindromes\bin\Debug\P11Palindromes.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExcerciseStringsAndTextProcessing\P11Palindromes\obj\Debug\P11Palindromes.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExcerciseStringsAndTextProcessing\P11Palindromes\obj\Debug\P11Palindromes.pdb

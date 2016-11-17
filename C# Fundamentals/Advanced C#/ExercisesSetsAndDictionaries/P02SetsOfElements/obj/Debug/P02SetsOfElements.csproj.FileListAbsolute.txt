@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\P02SetsOfElements\bin\Debug\P02SetsOfElements.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\P02SetsOfElements\bin\Debug\P02SetsOfElements.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\P02SetsOfElements\bin\Debug\P02SetsOfElements.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\P02SetsOfElements\obj\Debug\P02SetsOfElements.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\P02SetsOfElements\obj\Debug\P02SetsOfElements.pdb

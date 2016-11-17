@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesMethods\P10DateModifier\bin\Debug\P10DateModifier.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesMethods\P10DateModifier\bin\Debug\P10DateModifier.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesMethods\P10DateModifier\bin\Debug\P10DateModifier.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesMethods\P10DateModifier\obj\Debug\P10DateModifier.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesMethods\P10DateModifier\obj\Debug\P10DateModifier.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesMethods\P10DateModifier\obj\Debug\P10DateModifier.pdb

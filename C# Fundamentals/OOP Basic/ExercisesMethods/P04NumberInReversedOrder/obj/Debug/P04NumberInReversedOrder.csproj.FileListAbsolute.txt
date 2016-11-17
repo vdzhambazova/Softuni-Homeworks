@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P04NumberInReversedOrder\bin\Debug\P04NumberInReversedOrder.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P04NumberInReversedOrder\bin\Debug\P04NumberInReversedOrder.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P04NumberInReversedOrder\bin\Debug\P04NumberInReversedOrder.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P04NumberInReversedOrder\obj\Debug\P04NumberInReversedOrder.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P04NumberInReversedOrder\obj\Debug\P04NumberInReversedOrder.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P04NumberInReversedOrder\obj\Debug\P04NumberInReversedOrder.pdb

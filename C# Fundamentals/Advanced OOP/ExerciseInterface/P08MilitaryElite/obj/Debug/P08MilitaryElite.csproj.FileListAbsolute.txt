@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P08MilitaryElite\bin\Debug\P08MilitaryElite.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P08MilitaryElite\bin\Debug\P08MilitaryElite.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P08MilitaryElite\bin\Debug\P08MilitaryElite.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P08MilitaryElite\obj\Debug\P08MilitaryElite.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P08MilitaryElite\obj\Debug\P08MilitaryElite.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P08MilitaryElite\obj\Debug\P08MilitaryElite.pdb

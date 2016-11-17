@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\HomeworkFunctionalProgramming\P01ActionPrint\bin\Debug\P01ActionPrint.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\P01ActionPrint\bin\Debug\P01ActionPrint.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\P01ActionPrint\bin\Debug\P01ActionPrint.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\P01ActionPrint\obj\Debug\P01ActionPrint.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\P01ActionPrint\obj\Debug\P01ActionPrint.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\P01ActionPrint\obj\Debug\P01ActionPrint.pdb

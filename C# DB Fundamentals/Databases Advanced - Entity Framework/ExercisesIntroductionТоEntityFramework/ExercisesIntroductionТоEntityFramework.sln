@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softuni", "Softuni\Softuni.csproj", "{077F434F-7441-4E79-AC86-0D527FE5DC32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GringottsDatabase", "GringottsDatabase\GringottsDatabase.csproj", "{DE76FA53-05E3-44E8-9954-D91EAD84B385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077F434F-7441-4E79-AC86-0D527FE5DC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077F434F-7441-4E79-AC86-0D527FE5DC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077F434F-7441-4E79-AC86-0D527FE5DC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077F434F-7441-4E79-AC86-0D527FE5DC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE76FA53-05E3-44E8-9954-D91EAD84B385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE76FA53-05E3-44E8-9954-D91EAD84B385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE76FA53-05E3-44E8-9954-D91EAD84B385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE76FA53-05E3-44E8-9954-D91EAD84B385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

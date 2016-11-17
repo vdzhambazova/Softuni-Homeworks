@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P02StringLength\bin\Debug\P02StringLength.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P02StringLength\bin\Debug\P02StringLength.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P02StringLength\bin\Debug\P02StringLength.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P02StringLength\obj\Debug\P02StringLength.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P02StringLength\obj\Debug\P02StringLength.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P02StringLength\obj\Debug\P02StringLength.pdb

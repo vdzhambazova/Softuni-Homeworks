@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P05PizzaCalories\bin\Debug\P05PizzaCalories.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P05PizzaCalories\obj\Debug\P05PizzaCalories.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P05PizzaCalories\bin\Debug\P05PizzaCalories.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P05PizzaCalories\bin\Debug\P05PizzaCalories.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P05PizzaCalories\obj\Debug\P05PizzaCalories.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P05PizzaCalories\obj\Debug\P05PizzaCalories.pdb

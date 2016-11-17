@@ -1,0 +1,5 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P05Phonebook\bin\Debug\P05Phonebook.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P05Phonebook\bin\Debug\P05Phonebook.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P05Phonebook\bin\Debug\P05Phonebook.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P05Phonebook\obj\Debug\P05Phonebook.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P05Phonebook\obj\Debug\P05Phonebook.pdb

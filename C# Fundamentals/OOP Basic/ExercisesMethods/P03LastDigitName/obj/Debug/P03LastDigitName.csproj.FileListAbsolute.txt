@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P03LastDigitName\bin\Debug\P03LastDigitName.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P03LastDigitName\bin\Debug\P03LastDigitName.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P03LastDigitName\bin\Debug\P03LastDigitName.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P03LastDigitName\obj\Debug\P03LastDigitName.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P03LastDigitName\obj\Debug\P03LastDigitName.pdb

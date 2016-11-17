@@ -1,0 +1,5 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P12LegendaryFarming\bin\Debug\P12LegendaryFarming.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P12LegendaryFarming\bin\Debug\P12LegendaryFarming.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P12LegendaryFarming\bin\Debug\P12LegendaryFarming.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P12LegendaryFarming\obj\Debug\P12LegendaryFarming.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P12LegendaryFarming\obj\Debug\P12LegendaryFarming.pdb

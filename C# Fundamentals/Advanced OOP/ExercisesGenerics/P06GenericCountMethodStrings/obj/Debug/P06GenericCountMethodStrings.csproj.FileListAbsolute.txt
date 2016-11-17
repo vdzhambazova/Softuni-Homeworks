@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P06GenericCountMethodStrings\bin\Debug\P06GenericCountMethodStrings.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P06GenericCountMethodStrings\bin\Debug\P06GenericCountMethodStrings.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P06GenericCountMethodStrings\bin\Debug\P06GenericCountMethodStrings.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P06GenericCountMethodStrings\obj\Debug\P06GenericCountMethodStrings.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P06GenericCountMethodStrings\obj\Debug\P06GenericCountMethodStrings.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P06GenericCountMethodStrings\obj\Debug\P06GenericCountMethodStrings.pdb

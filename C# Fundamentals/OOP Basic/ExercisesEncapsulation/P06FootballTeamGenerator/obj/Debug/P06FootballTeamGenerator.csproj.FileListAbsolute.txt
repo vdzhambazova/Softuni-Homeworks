@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P06FootballTeamGenerator\bin\Debug\P06FootballTeamGenerator.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P06FootballTeamGenerator\bin\Debug\P06FootballTeamGenerator.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P06FootballTeamGenerator\bin\Debug\P06FootballTeamGenerator.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P06FootballTeamGenerator\obj\Debug\P06FootballTeamGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P06FootballTeamGenerator\obj\Debug\P06FootballTeamGenerator.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P06FootballTeamGenerator\obj\Debug\P06FootballTeamGenerator.pdb

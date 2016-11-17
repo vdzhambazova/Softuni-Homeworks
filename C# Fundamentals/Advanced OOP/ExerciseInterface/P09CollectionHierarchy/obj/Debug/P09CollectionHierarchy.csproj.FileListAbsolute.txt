@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P09CollectionHierarchy\bin\Debug\P09CollectionHierarchy.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P09CollectionHierarchy\bin\Debug\P09CollectionHierarchy.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P09CollectionHierarchy\bin\Debug\P09CollectionHierarchy.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P09CollectionHierarchy\obj\Debug\P09CollectionHierarchy.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P09CollectionHierarchy\obj\Debug\P09CollectionHierarchy.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P09CollectionHierarchy\obj\Debug\P09CollectionHierarchy.pdb

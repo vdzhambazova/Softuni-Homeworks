@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\05. BroderControl\bin\Debug\_05.BroderControl.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\05. BroderControl\bin\Debug\_05.BroderControl.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\05. BroderControl\bin\Debug\_05.BroderControl.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\05. BroderControl\obj\Debug\P05BroderControl.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\05. BroderControl\obj\Debug\_05.BroderControl.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\05. BroderControl\obj\Debug\_05.BroderControl.pdb

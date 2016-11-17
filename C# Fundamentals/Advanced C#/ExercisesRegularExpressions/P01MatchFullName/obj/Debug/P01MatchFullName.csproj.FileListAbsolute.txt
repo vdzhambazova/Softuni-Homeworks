@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P01MatchFullName\bin\Debug\P01MatchFullName.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P01MatchFullName\bin\Debug\P01MatchFullName.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P01MatchFullName\bin\Debug\P01MatchFullName.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P01MatchFullName\obj\Debug\P01MatchFullName.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P01MatchFullName\obj\Debug\P01MatchFullName.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P01MatchFullName\obj\Debug\P01MatchFullName.pdb

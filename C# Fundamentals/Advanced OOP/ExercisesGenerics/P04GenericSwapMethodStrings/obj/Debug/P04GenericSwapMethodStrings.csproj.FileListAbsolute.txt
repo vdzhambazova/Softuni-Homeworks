@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P04GenericSwapMethodStrings\bin\Debug\P04GenericSwapMethodStrings.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P04GenericSwapMethodStrings\bin\Debug\P04GenericSwapMethodStrings.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P04GenericSwapMethodStrings\bin\Debug\P04GenericSwapMethodStrings.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P04GenericSwapMethodStrings\obj\Debug\P04GenericSwapMethodStrings.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P04GenericSwapMethodStrings\obj\Debug\P04GenericSwapMethodStrings.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P04GenericSwapMethodStrings\obj\Debug\P04GenericSwapMethodStrings.pdb

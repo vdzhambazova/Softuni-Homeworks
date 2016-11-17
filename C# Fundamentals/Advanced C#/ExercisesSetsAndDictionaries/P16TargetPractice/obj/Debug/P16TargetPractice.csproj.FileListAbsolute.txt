@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P16TargetPractice\bin\Debug\P16TargetPractice.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P16TargetPractice\bin\Debug\P16TargetPractice.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P16TargetPractice\bin\Debug\P16TargetPractice.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P16TargetPractice\obj\Debug\P16TargetPractice.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P16TargetPractice\obj\Debug\P16TargetPractice.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P16TargetPractice\obj\Debug\P16TargetPractice.pdb

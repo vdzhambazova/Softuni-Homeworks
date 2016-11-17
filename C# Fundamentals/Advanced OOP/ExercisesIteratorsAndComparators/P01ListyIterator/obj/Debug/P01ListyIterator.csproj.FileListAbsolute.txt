@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIteratorsAndComparators\P01ListyIterator\bin\Debug\P01ListyIterator.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIteratorsAndComparators\P01ListyIterator\bin\Debug\P01ListyIterator.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIteratorsAndComparators\P01ListyIterator\bin\Debug\P01ListyIterator.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIteratorsAndComparators\P01ListyIterator\obj\Debug\P01ListyIterator.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIteratorsAndComparators\P01ListyIterator\obj\Debug\P01ListyIterator.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIteratorsAndComparators\P01ListyIterator\obj\Debug\P01ListyIterator.pdb

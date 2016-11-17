@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P21ParkingSystem\bin\Debug\P21ParkingSystem.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P21ParkingSystem\bin\Debug\P21ParkingSystem.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P21ParkingSystem\bin\Debug\P21ParkingSystem.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P21ParkingSystem\obj\Debug\P21ParkingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P21ParkingSystem\obj\Debug\P21ParkingSystem.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P21ParkingSystem\obj\Debug\P21ParkingSystem.pdb

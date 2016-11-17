@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\ExcerciseStringsAndTextProcessing\bin\Debug\ExcerciseStringsAndTextProcessing.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\ExcerciseStringsAndTextProcessing\bin\Debug\ExcerciseStringsAndTextProcessing.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\ExcerciseStringsAndTextProcessing\bin\Debug\ExcerciseStringsAndTextProcessing.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\ExcerciseStringsAndTextProcessing\obj\Debug\P01ReverseString.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\ExcerciseStringsAndTextProcessing\obj\Debug\ExcerciseStringsAndTextProcessing.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\ExcerciseStringsAndTextProcessing\obj\Debug\ExcerciseStringsAndTextProcessing.pdb

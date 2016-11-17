@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P06SentenceExtractor\bin\Debug\P06SentenceExtractor.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P06SentenceExtractor\bin\Debug\P06SentenceExtractor.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P06SentenceExtractor\bin\Debug\P06SentenceExtractor.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P06SentenceExtractor\obj\Debug\P06SentenceExtractor.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P06SentenceExtractor\obj\Debug\P06SentenceExtractor.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P06SentenceExtractor\obj\Debug\P06SentenceExtractor.pdb

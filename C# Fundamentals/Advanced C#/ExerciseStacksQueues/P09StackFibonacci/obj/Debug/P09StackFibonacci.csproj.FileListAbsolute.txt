@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P09StackFibonacci\bin\Debug\P09StackFibonacci.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P09StackFibonacci\obj\Debug\P09StackFibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P09StackFibonacci\bin\Debug\P09StackFibonacci.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P09StackFibonacci\bin\Debug\P09StackFibonacci.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P09StackFibonacci\obj\Debug\P09StackFibonacci.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P09StackFibonacci\obj\Debug\P09StackFibonacci.pdb

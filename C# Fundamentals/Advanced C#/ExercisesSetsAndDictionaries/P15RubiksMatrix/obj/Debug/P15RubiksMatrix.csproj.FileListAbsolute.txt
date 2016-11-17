@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P15RubiksMatrix\bin\Debug\P15RubiksMatrix.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P15RubiksMatrix\bin\Debug\P15RubiksMatrix.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P15RubiksMatrix\bin\Debug\P15RubiksMatrix.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P15RubiksMatrix\obj\Debug\P15RubiksMatrix.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P15RubiksMatrix\obj\Debug\P15RubiksMatrix.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P15RubiksMatrix\obj\Debug\P15RubiksMatrix.csprojResolveAssemblyReference.cache

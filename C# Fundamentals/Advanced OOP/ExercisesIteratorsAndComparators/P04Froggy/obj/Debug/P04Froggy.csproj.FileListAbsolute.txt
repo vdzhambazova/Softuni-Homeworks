@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIteratorsAndComparators\P04Froggy\bin\Debug\P04Froggy.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIteratorsAndComparators\P04Froggy\bin\Debug\P04Froggy.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIteratorsAndComparators\P04Froggy\bin\Debug\P04Froggy.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIteratorsAndComparators\P04Froggy\obj\Debug\P04Froggy.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesIteratorsAndComparators\P04Froggy\obj\Debug\P04Froggy.pdb

@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesInheritance\P05OnlineRadioDatabase\bin\Debug\P05OnlineRadioDatabase.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesInheritance\P05OnlineRadioDatabase\bin\Debug\P05OnlineRadioDatabase.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesInheritance\P05OnlineRadioDatabase\bin\Debug\P05OnlineRadioDatabase.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesInheritance\P05OnlineRadioDatabase\obj\Debug\P05OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesInheritance\P05OnlineRadioDatabase\obj\Debug\P05OnlineRadioDatabase.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesInheritance\P05OnlineRadioDatabase\obj\Debug\P05OnlineRadioDatabase.pdb

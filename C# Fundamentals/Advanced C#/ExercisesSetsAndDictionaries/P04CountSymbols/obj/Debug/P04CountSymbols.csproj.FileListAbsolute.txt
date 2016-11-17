@@ -1,0 +1,5 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P04CountSymbols\bin\Debug\P04CountSymbols.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P04CountSymbols\bin\Debug\P04CountSymbols.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P04CountSymbols\bin\Debug\P04CountSymbols.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P04CountSymbols\obj\Debug\P04CountSymbols.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P04CountSymbols\obj\Debug\P04CountSymbols.pdb

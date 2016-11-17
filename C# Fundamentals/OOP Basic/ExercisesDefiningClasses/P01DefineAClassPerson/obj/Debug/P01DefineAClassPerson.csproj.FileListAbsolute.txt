@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P01DefineAClassPerson\bin\Debug\P01DefineAClassPerson.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P01DefineAClassPerson\bin\Debug\P01DefineAClassPerson.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P01DefineAClassPerson\bin\Debug\P01DefineAClassPerson.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P01DefineAClassPerson\obj\Debug\P01DefineAClassPerson.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P01DefineAClassPerson\obj\Debug\P01DefineAClassPerson.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P01DefineAClassPerson\obj\Debug\P01DefineAClassPerson.pdb

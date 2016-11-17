@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P03MaximumElement\bin\Debug\P03MaximumElement.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P03MaximumElement\bin\Debug\P03MaximumElement.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P03MaximumElement\bin\Debug\P03MaximumElement.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P03MaximumElement\obj\Debug\P03MaximumElement.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P03MaximumElement\obj\Debug\P03MaximumElement.pdb

@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P07CarSalesman\bin\Debug\P07CarSalesman.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P07CarSalesman\bin\Debug\P07CarSalesman.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P07CarSalesman\bin\Debug\P07CarSalesman.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P07CarSalesman\obj\Debug\P07CarSalesman.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P07CarSalesman\obj\Debug\P07CarSalesman.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P07CarSalesman\obj\Debug\P07CarSalesman.pdb

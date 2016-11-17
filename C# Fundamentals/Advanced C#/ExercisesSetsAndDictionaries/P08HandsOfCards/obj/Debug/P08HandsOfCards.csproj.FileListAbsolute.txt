@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\P08HandsOfCards\bin\Debug\P08HandsOfCards.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\P08HandsOfCards\bin\Debug\P08HandsOfCards.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\P08HandsOfCards\bin\Debug\P08HandsOfCards.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\P08HandsOfCards\obj\Debug\P08HandsOfCards.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesSetsAndDictionaries\P08HandsOfCards\obj\Debug\P08HandsOfCards.pdb

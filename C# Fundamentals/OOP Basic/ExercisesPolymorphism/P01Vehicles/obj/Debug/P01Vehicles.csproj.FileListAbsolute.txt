@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesPolymorphism\P01Vehicles\bin\Debug\P01Vehicles.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesPolymorphism\P01Vehicles\bin\Debug\P01Vehicles.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesPolymorphism\P01Vehicles\bin\Debug\P01Vehicles.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesPolymorphism\P01Vehicles\obj\Debug\P01Vehicles.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesPolymorphism\P01Vehicles\obj\Debug\P01Vehicles.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesPolymorphism\P01Vehicles\obj\Debug\P01Vehicles.pdb

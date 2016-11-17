@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P07ValidUsernames\bin\Debug\P07ValidUsernames.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P07ValidUsernames\bin\Debug\P07ValidUsernames.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P07ValidUsernames\bin\Debug\P07ValidUsernames.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P07ValidUsernames\obj\Debug\P07ValidUsernames.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P07ValidUsernames\obj\Debug\P07ValidUsernames.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P07ValidUsernames\obj\Debug\P07ValidUsernames.csprojResolveAssemblyReference.cache

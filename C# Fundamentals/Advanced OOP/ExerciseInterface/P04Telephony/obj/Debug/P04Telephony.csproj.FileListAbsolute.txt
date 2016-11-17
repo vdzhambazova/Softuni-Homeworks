@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P04Telephony\bin\Debug\P04Telephony.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P04Telephony\bin\Debug\P04Telephony.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P04Telephony\bin\Debug\P04Telephony.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P04Telephony\obj\Debug\P04Telephony.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P04Telephony\obj\Debug\P04Telephony.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseInterface\P04Telephony\obj\Debug\P04Telephony.pdb

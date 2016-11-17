@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P05GenericSwapMethodIntegers\bin\Debug\P05GenericSwapMethodIntegers.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P05GenericSwapMethodIntegers\bin\Debug\P05GenericSwapMethodIntegers.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P05GenericSwapMethodIntegers\bin\Debug\P05GenericSwapMethodIntegers.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P05GenericSwapMethodIntegers\obj\Debug\P05GenericSwapMethodIntegers.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P05GenericSwapMethodIntegers\obj\Debug\P05GenericSwapMethodIntegers.pdb

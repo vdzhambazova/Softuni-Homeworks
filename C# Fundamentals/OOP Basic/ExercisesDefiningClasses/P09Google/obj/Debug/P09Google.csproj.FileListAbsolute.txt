@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P09Google\bin\Debug\P09Google.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P09Google\bin\Debug\P09Google.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P09Google\bin\Debug\P09Google.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P09Google\obj\Debug\P09Google.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P09Google\obj\Debug\P09Google.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P09Google\obj\Debug\P09Google.pdb

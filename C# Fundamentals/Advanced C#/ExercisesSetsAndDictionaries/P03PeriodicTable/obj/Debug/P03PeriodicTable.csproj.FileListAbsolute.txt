@@ -1,0 +1,5 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P03PeriodicTable\bin\Debug\P03PeriodicTable.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P03PeriodicTable\bin\Debug\P03PeriodicTable.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P03PeriodicTable\bin\Debug\P03PeriodicTable.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P03PeriodicTable\obj\Debug\P03PeriodicTable.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P03PeriodicTable\obj\Debug\P03PeriodicTable.pdb

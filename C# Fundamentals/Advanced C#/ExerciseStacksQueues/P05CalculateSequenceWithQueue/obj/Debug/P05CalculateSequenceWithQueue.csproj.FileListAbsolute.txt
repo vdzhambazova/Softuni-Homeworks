@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P05CalculateSequenceWithQueue\bin\Debug\P05CalculateSequenceWithQueue.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P05CalculateSequenceWithQueue\bin\Debug\P05CalculateSequenceWithQueue.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P05CalculateSequenceWithQueue\bin\Debug\P05CalculateSequenceWithQueue.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P05CalculateSequenceWithQueue\obj\Debug\P05CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P05CalculateSequenceWithQueue\obj\Debug\P05CalculateSequenceWithQueue.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P05CalculateSequenceWithQueue\obj\Debug\P05CalculateSequenceWithQueue.pdb

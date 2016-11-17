@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P04CompanyRoster\bin\Debug\P04CompanyRoster.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P04CompanyRoster\bin\Debug\P04CompanyRoster.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P04CompanyRoster\bin\Debug\P04CompanyRoster.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P04CompanyRoster\obj\Debug\P04CompanyRoster.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P04CompanyRoster\obj\Debug\P04CompanyRoster.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P04CompanyRoster\obj\Debug\P04CompanyRoster.pdb

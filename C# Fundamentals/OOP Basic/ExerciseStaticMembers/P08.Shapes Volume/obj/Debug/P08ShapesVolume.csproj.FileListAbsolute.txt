@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P08.Shapes Volume\bin\Debug\P08.Shapes Volume.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P08.Shapes Volume\bin\Debug\P08.Shapes Volume.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P08.Shapes Volume\bin\Debug\P08.Shapes Volume.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P08.Shapes Volume\obj\Debug\P08ShapesVolume.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P08.Shapes Volume\obj\Debug\P08.Shapes Volume.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P08.Shapes Volume\obj\Debug\P08.Shapes Volume.pdb

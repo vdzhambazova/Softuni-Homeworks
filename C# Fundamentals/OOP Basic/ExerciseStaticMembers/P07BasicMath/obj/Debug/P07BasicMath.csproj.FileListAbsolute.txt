@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P07BasicMath\bin\Debug\P07BasicMath.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P07BasicMath\bin\Debug\P07BasicMath.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P07BasicMath\bin\Debug\P07BasicMath.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P07BasicMath\obj\Debug\P07BasicMath.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P07BasicMath\obj\Debug\P07BasicMath.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P07BasicMath\obj\Debug\P07BasicMath.pdb

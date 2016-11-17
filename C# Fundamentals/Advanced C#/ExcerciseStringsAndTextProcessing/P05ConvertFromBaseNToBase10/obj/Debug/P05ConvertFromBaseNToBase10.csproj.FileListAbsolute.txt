@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P05ConvertFromBaseNToBase10\bin\Debug\P05ConvertFromBaseNToBase10.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P05ConvertFromBaseNToBase10\bin\Debug\P05ConvertFromBaseNToBase10.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P05ConvertFromBaseNToBase10\bin\Debug\P05ConvertFromBaseNToBase10.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P05ConvertFromBaseNToBase10\obj\Debug\P05ConvertFromBaseNToBase10.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P05ConvertFromBaseNToBase10\obj\Debug\P05ConvertFromBaseNToBase10.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P05ConvertFromBaseNToBase10\obj\Debug\P05ConvertFromBaseNToBase10.pdb

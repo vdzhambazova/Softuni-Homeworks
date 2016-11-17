@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P17LegoBlocks\bin\Debug\P17LegoBlocks.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P17LegoBlocks\bin\Debug\P17LegoBlocks.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P17LegoBlocks\bin\Debug\P17LegoBlocks.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P17LegoBlocks\obj\Debug\P17LegoBlocks.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P17LegoBlocks\obj\Debug\P17LegoBlocks.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesSetsAndDictionaries\P17LegoBlocks\obj\Debug\P17LegoBlocks.pdb

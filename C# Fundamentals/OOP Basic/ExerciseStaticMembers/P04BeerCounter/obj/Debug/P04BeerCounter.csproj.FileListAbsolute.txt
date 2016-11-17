@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P04BeerCounter\bin\Debug\P04BeerCounter.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P04BeerCounter\bin\Debug\P04BeerCounter.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P04BeerCounter\bin\Debug\P04BeerCounter.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P04BeerCounter\obj\Debug\P04BeerCounter.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P04BeerCounter\obj\Debug\P04BeerCounter.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P04BeerCounter\obj\Debug\P04BeerCounter.pdb

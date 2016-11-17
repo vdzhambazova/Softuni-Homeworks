@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P01Students\bin\Debug\P01Students.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P01Students\bin\Debug\P01Students.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P01Students\bin\Debug\P01Students.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P01Students\obj\Debug\P01Students.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P01Students\obj\Debug\P01Students.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P01Students\obj\Debug\P01Students.pdb

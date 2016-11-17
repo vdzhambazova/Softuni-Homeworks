@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P05SpeedRacing\bin\Debug\P05SpeedRacing.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P05SpeedRacing\bin\Debug\P05SpeedRacing.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P05SpeedRacing\bin\Debug\P05SpeedRacing.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P05SpeedRacing\obj\Debug\P05SpeedRacing.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P05SpeedRacing\obj\Debug\P05SpeedRacing.pdb

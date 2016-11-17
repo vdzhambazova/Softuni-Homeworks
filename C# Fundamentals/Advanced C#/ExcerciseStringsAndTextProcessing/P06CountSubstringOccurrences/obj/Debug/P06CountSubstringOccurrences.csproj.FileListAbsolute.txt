@@ -1,0 +1,1 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P06CountSubstringOccurrences\bin\Debug\P06CountSubstringOccurrences.exe.config

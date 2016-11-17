@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P01MethodSaysHello\bin\Debug\P01MethodSaysHello.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P01MethodSaysHello\bin\Debug\P01MethodSaysHello.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P01MethodSaysHello\bin\Debug\P01MethodSaysHello.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P01MethodSaysHello\obj\Debug\P01MethodSaysHello.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P01MethodSaysHello\obj\Debug\P01MethodSaysHello.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesMethods\P01MethodSaysHello\obj\Debug\P01MethodSaysHello.pdb

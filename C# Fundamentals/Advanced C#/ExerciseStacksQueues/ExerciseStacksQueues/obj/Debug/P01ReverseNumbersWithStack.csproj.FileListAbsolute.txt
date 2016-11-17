@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\ExerciseStacksQueues\bin\Debug\ExerciseStacksQueues.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\ExerciseStacksQueues\bin\Debug\ExerciseStacksQueues.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\ExerciseStacksQueues\bin\Debug\ExerciseStacksQueues.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\ExerciseStacksQueues\obj\Debug\P01ReverseNumbersWithStack.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\ExerciseStacksQueues\obj\Debug\ExerciseStacksQueues.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\ExerciseStacksQueues\obj\Debug\ExerciseStacksQueues.pdb

@@ -1,0 +1,1 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\ExerciseStacksQueues\bin\Debug\ExerciseStacksQueues.exe.config

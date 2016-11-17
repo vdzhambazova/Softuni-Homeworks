@@ -1,0 +1,8 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P03OpinionPoll\bin\Debug\P03OpinionPoll.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P03OpinionPoll\bin\Debug\P03OpinionPoll.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P03OpinionPoll\bin\Debug\P03OpinionPoll.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P03OpinionPoll\bin\Debug\P01DefineAClassPerson.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P03OpinionPoll\bin\Debug\P01DefineAClassPerson.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P03OpinionPoll\obj\Debug\P03OpinionPoll.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P03OpinionPoll\obj\Debug\P03OpinionPoll.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesDefiningClasses\P03OpinionPoll\obj\Debug\P03OpinionPoll.pdb

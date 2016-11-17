@@ -1,0 +1,1 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExerciseStacksQueues\P02RecursiveFibonacci\bin\Debug\P02RecursiveFibonacci.exe.config

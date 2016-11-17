@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P04ReplaceATag\bin\Debug\P04ReplaceATag.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P04ReplaceATag\bin\Debug\P04ReplaceATag.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P04ReplaceATag\bin\Debug\P04ReplaceATag.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P04ReplaceATag\obj\Debug\P04ReplaceATag.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P04ReplaceATag\obj\Debug\P04ReplaceATag.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesRegularExpressions\P04ReplaceATag\obj\Debug\P04ReplaceATag.pdb

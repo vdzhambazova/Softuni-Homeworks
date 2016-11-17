@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P02GenericBoxOfString\bin\Debug\P02GenericBoxOfString.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P02GenericBoxOfString\bin\Debug\P02GenericBoxOfString.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P02GenericBoxOfString\bin\Debug\P02GenericBoxOfString.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P02GenericBoxOfString\obj\Debug\P02GenericBoxOfString.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExercisesGenerics\P02GenericBoxOfString\obj\Debug\P02GenericBoxOfString.pdb

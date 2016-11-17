@@ -1,0 +1,6 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P04ShoppingSpree\bin\Debug\P04ShoppingSpree.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P04ShoppingSpree\bin\Debug\P04ShoppingSpree.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P04ShoppingSpree\bin\Debug\P04ShoppingSpree.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P04ShoppingSpree\obj\Debug\P04ShoppingSpree.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P04ShoppingSpree\obj\Debug\P04ShoppingSpree.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\ExercisesEncapsulation\P04ShoppingSpree\obj\Debug\P04ShoppingSpree.pdb

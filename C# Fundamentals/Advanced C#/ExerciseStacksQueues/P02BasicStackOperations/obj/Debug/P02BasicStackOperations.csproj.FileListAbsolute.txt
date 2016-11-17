@@ -1,0 +1,5 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P02BasicStackOperations\bin\Debug\P02BasicStackOperations.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P02BasicStackOperations\bin\Debug\P02BasicStackOperations.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P02BasicStackOperations\bin\Debug\P02BasicStackOperations.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P02BasicStackOperations\obj\Debug\P02BasicStackOperations.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStacksQueues\P02BasicStackOperations\obj\Debug\P02BasicStackOperations.pdb

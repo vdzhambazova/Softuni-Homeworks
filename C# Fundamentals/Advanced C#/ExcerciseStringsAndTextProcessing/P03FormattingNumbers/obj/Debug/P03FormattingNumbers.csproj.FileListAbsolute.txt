@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P03FormattingNumbers\bin\Debug\P03FormattingNumbers.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P03FormattingNumbers\bin\Debug\P03FormattingNumbers.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P03FormattingNumbers\bin\Debug\P03FormattingNumbers.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P03FormattingNumbers\obj\Debug\P03FormattingNumbers.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P03FormattingNumbers\obj\Debug\P03FormattingNumbers.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExcerciseStringsAndTextProcessing\P03FormattingNumbers\obj\Debug\P03FormattingNumbers.pdb

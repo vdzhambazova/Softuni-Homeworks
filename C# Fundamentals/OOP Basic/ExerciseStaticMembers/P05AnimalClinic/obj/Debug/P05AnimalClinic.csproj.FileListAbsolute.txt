@@ -1,0 +1,6 @@
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P05AnimalClinic\bin\Debug\P05AnimalClinic.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P05AnimalClinic\bin\Debug\P05AnimalClinic.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P05AnimalClinic\bin\Debug\P05AnimalClinic.pdb
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P05AnimalClinic\obj\Debug\P05AnimalClinic.csprojResolveAssemblyReference.cache
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P05AnimalClinic\obj\Debug\P05AnimalClinic.exe
+c:\users\teo\documents\visual studio 2015\Projects\ExerciseStaticMembers\P05AnimalClinic\obj\Debug\P05AnimalClinic.pdb
